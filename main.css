@@ -56,7 +56,7 @@ h1 {
 }
 
 .buttons button.selected {
-    background-color: #f3831bd7; /* Darker shade of royal blue for selected button */
+    background-color: #fd7016; /* Darker shade of royal blue for selected button */
     color: white;
 }
 
@@ -90,7 +90,7 @@ input[type="number"] {
 }
 
 .progress-bar {
-    background-color: #f3841b;
+    background-color: #fd7016;
     height: 100%;
     width: 0%;
     border-radius: 5px;
@@ -112,16 +112,16 @@ input[type="number"] {
     display: none; /* Hidden by default */
 }
 #peptide-dose {
-    color: #f3841b; /* You can change 'red' to any color you like */
+    color: #fd7016; /* You can change 'red' to any color you like */
 }
 #syringe-units {
-    color: #f3841b; /* You can change 'red' to any color you like */
+    color: #fd7016; /* You can change 'red' to any color you like */
 }
 #concentration {
-    color: #f3841b; /* You can change 'red' to any color you like */
+    color: #fd7016; /* You can change 'red' to any color you like */
 }
 #vial-doses {
-    color: #f3841b; /* You can change 'red' to any color you like */
+    color: #fd7016; /* You can change 'red' to any color you like */
 }
 
 /* Responsive Design */
